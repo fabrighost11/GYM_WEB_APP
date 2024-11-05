@@ -1,0 +1,4 @@
+#Ignora variables de entorno
+.env
+#Ignora dependencias de composer
+/vendor
